@@ -2,7 +2,7 @@
 
 **Time:** January 27- 29, 2015 from 8:30am-12:30pm, EST
                      
-** Instructors:** Aaron Garoutte, Jiarong Guo, Joshua Herr, Luiz Irber
+**Instructors:** Aaron Garoutte, Jiarong Guo, Joshua Herr, Luiz Irber
 
 
 ---
@@ -14,9 +14,9 @@
 
 **where:** Michigan State University, Biomedical and Physical Sciences Building, Room 1440
 
-** Requirements:** Participants must bring a laptop with a few specific software packages installed (listed below). They are also required to abide by Software Carpentry's [Code of Conduct] (http://software-carpentry.org/conduct.html)
+**Requirements:** Participants must bring a laptop with a few specific software packages installed (listed below). They are also required to abide by Software Carpentry's [Code of Conduct] (http://software-carpentry.org/conduct.html)
 
-** Contact:** Please email training@icer.msu.edu for more information
+**Contact:** Please email training@icer.msu.edu for more information
 
 ----
 #**Schedule**
