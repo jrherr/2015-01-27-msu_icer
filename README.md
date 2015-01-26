@@ -27,5 +27,5 @@
 * **Day 3:** Version Control & Git
 
 ---
-#**Set Up**
- 
+#**Set Up Instructions**
+Please follow the link and install the appropriate Python and Git [software] (http://software-carpentry.org/v5/setup.html) for this workshop.  
