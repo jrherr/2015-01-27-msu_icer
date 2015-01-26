@@ -16,7 +16,9 @@
 
 **Requirements:** Participants must bring a laptop with a few specific software packages installed (listed below). They are also required to abide by Software Carpentry's [Code of Conduct] (http://software-carpentry.org/conduct.html)
 
-**Contact:** Please email training@icer.msu.edu for more information
+**Contact:** Please email training@icer.msu.edu for more information.
+
+[Register Here] (https://docs.google.com/forms/d/1Yba2i5ywC7OclFnPQYrLHUhDDgpHKdF6t1830fLviC0/viewform)
 
 ----
 #**Schedule**
