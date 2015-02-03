@@ -1,0 +1,8 @@
+processing file july_data.txt
+finished the analysis for sample july_data.txt
+processing file solarsystem.txt
+Earth      3      Sun       149600   365.26    0.00  0.02
+Moon       1      Earth        384    27.32    5.14  0.05
+finished the analysis for sample solarsystem.txt
+processing file sunspot.txt
+finished the analysis for sample sunspot.txt

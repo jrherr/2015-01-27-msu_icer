@@ -1,0 +1,11 @@
+--2015-01-27 00:43:08--  http://lyorn.idyll.org/~gjr/public2/swc/1k.taxonomy
+Resolving lyorn.idyll.org (lyorn.idyll.org)... 35.9.124.246
+Connecting to lyorn.idyll.org (lyorn.idyll.org)|35.9.124.246|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 104833 (102K)
+Saving to: “1k.taxonomy”
+
+ 0% [                                       ] 0           --.-K/s              100%[======================================>] 104,833     --.-K/s   in 0.06s   
+
+2015-01-27 00:43:08 (1.61 MB/s) - “1k.taxonomy” saved [104833/104833]
+

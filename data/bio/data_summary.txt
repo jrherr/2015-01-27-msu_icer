@@ -1,0 +1,4 @@
+      20      42     283 amino_acids.txt
+      64     128     515 codons.txt
+      23      62    1041 paleo-mammals.txt
+     107     232    1839 total
